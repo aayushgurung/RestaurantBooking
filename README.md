@@ -7,7 +7,7 @@ Prerequisite
 2. Extract the images in the static/photo directory inside of the Project folder.
 3. Copy the user_item_matrix.csv to the main folder of the project.
 
-`<br>`
+<hr>
 
 **Home Page.**
 
