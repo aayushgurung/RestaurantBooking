@@ -6,7 +6,7 @@ Prerequisite
 1. Download the images and useritem matrix from google drive Link: https://drive.google.com/drive/folders/1K0UBxht2fdbfeR3Sdf1pm1sSRsdhRcZD?usp=sharing
 2. Extract the images in the static/photo directory inside of the Project folder.
 3. Copy the user_item_matrix.csv to the main folder of the project.
-
+<br>
 **Home Page.**
 
 This is the homepage of the application where we can search for restaurant and based on that the user is recommended restaurant.
