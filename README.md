@@ -7,7 +7,8 @@ Prerequisite
 2. Extract the images in the static/photo directory inside of the Project folder.
 3. Copy the user_item_matrix.csv to the main folder of the project.
 
-**Home Page**
+**Home Page.**
+
 This is the homepage of the application where we can search for restaurant and based on that the user is recommended restaurant.
 
 ![2](https://github.com/aayushgurung/RestaurantBooking/assets/52774220/c862f06e-b545-410f-9bf2-dc5aa42587a8)
