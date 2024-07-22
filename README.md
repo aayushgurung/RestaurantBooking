@@ -34,8 +34,6 @@ This is the homepage of the application where we can search for restaurant and b
 
 <br>
 
-<br>
-
 ![6](https://github.com/aayushgurung/RestaurantBooking/assets/52774220/dd272077-1348-4c35-9862-9b5bf03ba600)
 
 <br>
