@@ -1,4 +1,4 @@
-#Restaurant Booking System with Recommendation system using Item Based collaborative filtering.
+**Restaurant Booking System with Recommendation system using Item Based collaborative filtering.**
 
 Prerequisite
 1. Download the images and useritem matrix from google drive Link: https://drive.google.com/drive/folders/1K0UBxht2fdbfeR3Sdf1pm1sSRsdhRcZD?usp=sharing
